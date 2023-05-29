@@ -19,7 +19,7 @@
         - my_train_data.csv의 ['score', 'count'] + 'label' 학습
         - logistic_model.pkl 에 학습된 모델 저장
 
-3. topic_train.ipynb
+3. topic_test.ipynb
     - `descr`:
         - 사용할 model & dataset 경로 수정
         - file_contents 리스트에 원하는 순서대로 data 저장
@@ -36,6 +36,6 @@
 ### 사용 방법:
 
 1. logistic_model.pkl 저장
-2. topic_train.ipynb 에서 사용할 model & dataset 경로 수정
+2. topic_test.ipynb 에서 사용할 model & dataset 경로 수정
 3. file_contents 리스트에 원하는 순서대로 data 저장
-4. topic_train.ipynb 실행
+4. topic_test.ipynb 실행
