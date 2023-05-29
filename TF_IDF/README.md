@@ -1,7 +1,5 @@
 # TF_IDF + roberta-large-mnli + logistic
 
----
-
 ### 파일 설명:
 
 1. topic_train_preprocess.ipynb
@@ -34,7 +32,7 @@
 
 ---
 
-### 사용방법:
+### 사용 방법:
 
 1. logistic_model.pkl 저장
 2. topic_train.ipynb 에서 사용할 model & dataset 경로 수정
