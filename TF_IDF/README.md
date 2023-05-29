@@ -22,6 +22,7 @@
 3. topic_train.ipynb
     - `descr`:
         - 사용할 model & dataset 경로 수정
+        - file_contents 리스트에 원하는 순서대로 data 저장
         - ['idx', 'score', 'count'] 형식으로 my_test_data.csv 작성
         - ['score', 'count'] 출력
         - predict label 출력
@@ -36,4 +37,5 @@
 
 1. logistic_model.pkl 저장
 2. topic_train.ipynb 에서 사용할 model & dataset 경로 수정
-3. topic_train.ipynb 실행
+3. file_contents 리스트에 원하는 순서대로 data 저장
+4. topic_train.ipynb 실행
