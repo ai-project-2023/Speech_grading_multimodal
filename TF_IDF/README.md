@@ -1,15 +1,15 @@
-# TF_IDF + roberta-large-mnli + logistic
+# TF-IDF + roberta-large-mnli + logistic
 
 ### 파일 설명:
 
 1. topic_train_preprocess.ipynb
-    - `TF_IDF`:
+    - `TF-IDF`:
         - Term Frequency - Inverse Document Frequency
         - <https://wikidocs.net/127853>
     - `roberta-large-mnli`:
         - <https://huggingface.co/roberta-large-mnli>
     - `descr`:
-        - score: TF_IDF로 뽑아낸 topic과 text의 유사도를 계산
+        - score: TF-IDF로 뽑아낸 topic과 text의 유사도를 계산
         - count: text의 단어 수를 계산
         - ['idx', 'score', 'count', 'label'] 형식으로 my_train_data.csv 작성
 
