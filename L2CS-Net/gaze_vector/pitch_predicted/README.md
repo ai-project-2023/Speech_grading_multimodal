@@ -1,0 +1,1 @@
+main.py를 실행하면, pitch_predicted 가 저장됩니다.
